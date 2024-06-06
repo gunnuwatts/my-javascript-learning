@@ -20,4 +20,4 @@ pizza`;
 // hello2 = hello2 + name;
 // hello2 = hello2 + ' Nice to meet you';
 
-const hello = `hello my name is ${name}. Nice to meet you`;
+const hello = `hello my name is ${name}. Nice to meet you. I am ${1 + 100} years old`;

@@ -13,3 +13,5 @@ ya
 I like
 
 pizza`;
+
+const hello = 'hello my name is' + name + ". Nice to meet you";

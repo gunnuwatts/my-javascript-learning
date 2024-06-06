@@ -29,4 +29,4 @@ const html = `
  </div>
  `;
  
- console.log(html);
+ document.body.innerHTML = html;

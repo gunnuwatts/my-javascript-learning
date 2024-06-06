@@ -14,8 +14,10 @@ I like
 
 pizza`;
 
-const hello = 'hello my name is' + name + ". Nice to meet you";
+// const hello = 'hello my name is ' + name + ". Nice to meet you";
 
-let hello2 = 'hello my name is ';
-hello2 = hello2 + name;
-hello2 = hello2 + ' Nice to meet you';
+// let hello2 = 'hello my name is ';
+// hello2 = hello2 + name;
+// hello2 = hello2 + ' Nice to meet you';
+
+const hello = `hello my name is ${name}. Nice to meet you`;

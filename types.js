@@ -1,4 +1,5 @@
 /* eslint-disable */
+/*
 const name = 'wes';
 const middle = "topher";
 const last = `bos`;
@@ -30,3 +31,8 @@ const html = `
  `;
  
  document.body.innerHTML = html;
+
+ */
+
+ const age = 100;
+ const name = 'wes';

@@ -43,4 +43,5 @@ const html = `
  const smarties = 20;
  const kids = 3;
  const eachkidGets = Math.floor(smarties / kids);
+ const dadGets = smarties % kids;
  console.log(`Each kids gets ${eachkidGets}`);

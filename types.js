@@ -37,6 +37,10 @@ const html = `
  const age = 100;
  const name = 'wes';
 
- const a = 10;
- const b = 20;
- 
+ //const a = 10;
+ //const b = 20;
+
+ const smarties = 20;
+ const kids = 3;
+ const eachkidGets = smarties / kids;
+ console.log(`Each kids gets ${eachkidGets}`);

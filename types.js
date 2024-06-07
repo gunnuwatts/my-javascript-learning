@@ -36,3 +36,7 @@ const html = `
 
  const age = 100;
  const name = 'wes';
+
+ const a = 10;
+ const b = 20;
+ 

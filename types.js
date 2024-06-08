@@ -32,7 +32,7 @@ const html = `
  
  document.body.innerHTML = html;
 
- */
+ 
 
  const age = 100;
  const name = 'wes';
@@ -45,3 +45,10 @@ const html = `
  const eachkidGets = Math.floor(smarties / kids);
  const dadGets = smarties % kids;
  console.log(`Each kids gets ${eachkidGets}`);
+ */
+
+ const person = {
+   first: 'wes',
+   last: 'bos',
+   age: 100
+ };

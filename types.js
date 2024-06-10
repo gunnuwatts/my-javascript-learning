@@ -52,3 +52,7 @@ const html = `
    last: 'bos',
    age: 100
  };
+
+ let dog;
+ console.log(dog);
+ dog = 'snickers';

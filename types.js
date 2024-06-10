@@ -56,3 +56,19 @@ const html = `
  let dog;
  console.log(dog);
  dog = 'snickers';
+
+
+ let somethingUndefined;
+ const somethingNull = null;
+
+ const cher = {
+  first: 'cher'
+ };
+
+ const teller = {
+  first: 'Raymond',
+  last: 'Teller'
+ }
+
+ teller.first = 'Teller';
+ teller.last = null;

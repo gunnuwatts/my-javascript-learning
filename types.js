@@ -79,3 +79,4 @@ const ofAge = age > 19;
 console.log(ofAge);
 
 age = 100;
+age2 = 100;

@@ -46,7 +46,7 @@ const html = `
  const dadGets = smarties % kids;
  console.log(`Each kids gets ${eachkidGets}`);
  */
-
+/*
  const person = {
    first: 'wes',
    last: 'bos',
@@ -72,3 +72,10 @@ const html = `
 
  teller.first = 'Teller';
  teller.last = null;
+ */
+let isDrawing = false;
+let age = 18;
+const ofAge = age > 19;
+console.log(ofAge);
+
+age = 100;

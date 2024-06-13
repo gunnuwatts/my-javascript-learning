@@ -9,4 +9,6 @@ function calculateBill() {
 
 // Function call. or **Run**
 const myTotal = calculateBill();
-console.log(`Your Total is $${myTotal}`);
+// console.log(`Your Total is $${myTotal}`);
+
+console.log(`Your total is $${calculateBill()}`);

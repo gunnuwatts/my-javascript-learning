@@ -8,4 +8,5 @@ function calculateBill() {
 }
 
 // Function call. or **Run**
-calculateBill();
+const myTotal = calculateBill();
+console.log(myTotal);

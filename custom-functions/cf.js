@@ -1,9 +1,12 @@
 // Function Definition
+const bill = 100;
+const taxRate = 0.13;
+
 function calculateBill() {
     // this is the function body
-    console.log('Running Calculate bill!!');
-    const total = 100 * 1.13;
-    console.log(total);
+    console.log('Running Calculate Bill!!');
+
+    const total = bill * 1 + taxRate;
     return total;
 }
 

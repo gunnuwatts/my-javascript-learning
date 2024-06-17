@@ -20,4 +20,5 @@ function sayHiTo(firstName) {
 // const greeting = sayHiTo('Wes');
 // console.log(greeting);
 
-const myTotal3 = calculateBill(20 + 20 + 30 + 20, 0.15);
+const kait = 100;
+const myTotal3 = calculateBill(kait + 50, 0.15);

@@ -12,10 +12,10 @@ const wesTotal = 500;
 const wesTaxRate = 0.3;
 // const myTotal = calculateBill(wesTotal, wesTaxRate);
 
-const firstName = 'wes';
-function sayHiTo() {
+// Function Definition
+function sayHiTo(firstName) {
     return `hello ${firstName}`;
 }
 
-const greeting = sayHiTo();
+const greeting = sayHiTo('Wes');
 console.log(greeting);

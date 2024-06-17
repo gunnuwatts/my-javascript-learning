@@ -17,5 +17,7 @@ function sayHiTo(firstName) {
     return `hello ${firstName}`;
 }
 
-const greeting = sayHiTo('Wes');
-console.log(greeting);
+// const greeting = sayHiTo('Wes');
+// console.log(greeting);
+
+const myTotal3 = calculateBill(20 + 20 + 30 + 20, 0.15);

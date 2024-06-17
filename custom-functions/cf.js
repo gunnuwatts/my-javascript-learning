@@ -8,4 +8,6 @@ function calculateBill(billAmount, taxRate) {
 }
 
 // Function call. or **Run**
-const myTotal = calculateBill(100, 0.13);
+const wesTotal = 500;
+const wesTaxRate = 0.3;
+const myTotal = calculateBill(wesTotal, wesTaxRate);

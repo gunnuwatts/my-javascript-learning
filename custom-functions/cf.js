@@ -27,3 +27,5 @@ function doctorize(name) {
 function yell(name) {
     return `HEY ${name.toUpperCase()}`;
 }
+
+yell(doctorize('wes'));

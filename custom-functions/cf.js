@@ -1,9 +1,9 @@
 // Function Definition
-function calculateBill(billAmount, taxRate = 0.13) {
+function calculateBill(billAmount, taxRate = 0.13, tipRate = 0.15) {
     console.log(billAmount, taxRate);
     // this is the function body
     console.log('Running Calculate Bill!!');
-    const total = billAmount * (1 + taxRate);
+    const total = billAmount + billAmount * taxRate + billAmount * tipRate;
     return total;
 }
 

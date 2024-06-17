@@ -1,5 +1,5 @@
 // Function Definition
-function calculateBill(billAmount, taxRate) {
+function calculateBill(billAmount, taxRate = 0.13) {
     console.log(billAmount, taxRate);
     // this is the function body
     console.log('Running Calculate Bill!!');

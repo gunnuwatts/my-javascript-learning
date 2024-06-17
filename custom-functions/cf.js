@@ -20,5 +20,10 @@ function sayHiTo(firstName) {
 // const greeting = sayHiTo('Wes');
 // console.log(greeting);
 
-const kait = 100;
-const myTotal3 = calculateBill(kait + 50, 0.15);
+function doctorize(name) {
+    return `Dr. ${name}`;
+}
+
+function yell(name) {
+    return `HEY ${name.toUpperCase()}`;
+}

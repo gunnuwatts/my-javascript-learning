@@ -1,15 +1,4 @@
-* {
-    color: aquamarine;
-}
-
-#headingOne {
-    color: yellow;
-}
-
-#headingTwo {
-    color: pink;
-}
-
-.myclass {
-    color: green;
+#box {
+    /* color: rgb(6, 147, 60); */
+    background-color: rgb(6, 6, 43);
 }

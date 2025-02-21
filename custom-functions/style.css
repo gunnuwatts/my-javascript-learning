@@ -2,7 +2,14 @@
     color: aquamarine;
 }
 
-h1 {
-    color: red;
+#headingOne {
+    color: yellow;
+}
 
+#headingTwo {
+    color: pink;
+}
+
+#headingThree {
+    color: purple;
 }

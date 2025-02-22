@@ -3,6 +3,7 @@ p {
 }
 
 h1 {
-    text-align: right;
+    text-align: center;
+    text-decoration: underline;
     color: pink;
 }

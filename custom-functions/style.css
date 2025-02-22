@@ -4,7 +4,7 @@ p {
 
 h1 {
     text-align: center;
-    text-decoration: red wavy line-through;
+    text-decoration: red dotted underline;
     color: pink;
 }
 

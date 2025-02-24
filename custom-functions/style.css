@@ -1,14 +1,4 @@
-#one {
-    font-size: 25px;
-    line-height: 50px;
+h1 {
+    text-align: center;
     text-transform: capitalize;
-
-}
-
-#three {
-    font-size: 10px;
-}
-
-#two {
-    font-size: 100px;
 }

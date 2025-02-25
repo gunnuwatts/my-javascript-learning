@@ -3,6 +3,7 @@ div {
     background-color: pink;
     width: 100px;
     border-width: 2px;
+    border-style: solid;
 }
 
 h1 {

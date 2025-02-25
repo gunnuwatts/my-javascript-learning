@@ -4,6 +4,7 @@ div {
     width: 100px;
     border-width: 2px;
     border-style: solid;
+    border-color: brown
 }
 
 h1 {

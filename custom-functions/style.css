@@ -3,7 +3,8 @@ div {
     background-color: pink;
     width: 100px;
     border: 2px solid brown;
-    border-radius: 50%;
+    /*border-radius: 50%;*/
+    padding-left: 25px;
 
 
 }

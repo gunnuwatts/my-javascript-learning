@@ -22,3 +22,7 @@ div {
     top: 10px;
     left: 20px;
 }
+
+#box4 {
+    position: fixed;
+}

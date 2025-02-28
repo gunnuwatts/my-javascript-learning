@@ -9,3 +9,7 @@ div {
 #box1 {
     position: static;
 }
+
+#box2 {
+    position: relative;
+}

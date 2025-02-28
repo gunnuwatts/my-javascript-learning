@@ -19,13 +19,11 @@ div {
 
 #box3 {
     position: absolute;
-    top: 10px;
+    top: 500px;
     left: 20px;
 }
 
 #box4 {
     position: fixed;
-    right: 10px;
-    bottom: 0;
-    width: 100vw;
+    top: 0px;
 }

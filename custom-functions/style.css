@@ -26,5 +26,6 @@ div {
 #box4 {
     position: fixed;
     right: 10px;
-    bottom: 20px;
+    bottom: 0px;
+    width: 100%;
 }

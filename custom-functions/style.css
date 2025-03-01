@@ -27,5 +27,5 @@ div {
 #box4 {
     position: fixed;
     top: 50px;
-    z-index: 3;
+    z-index: -3;
 }

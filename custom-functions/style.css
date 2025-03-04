@@ -5,3 +5,7 @@ div {
     border: 2px solid black;
     display: inline-block;
 }
+
+#box1 {
+    background-image: url("laura_photo.jpg");
+}

@@ -8,6 +8,6 @@ div {
 
 #box1 {
     background-image: url("laura_photo.jpg");
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-size: auto;
+
 }

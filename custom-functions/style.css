@@ -1,13 +1,6 @@
 div {
-    height: 100px;
-    width: 100px;
-    background-color: aqua;
-    border: 2px solid black;
-    display: inline-block;
-}
-
-#box1 {
-    background-image: url("laura_photo.jpg");
-    background-size: auto;
-
+    height: 250px;
+    width: 250px;
+    background-image: url("nature_photo.jpg");
+    background-size: cover;
 }

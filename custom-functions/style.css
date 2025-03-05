@@ -16,8 +16,9 @@ div {
     flex-direction: row;
     justify-content: center;
     flex-wrap: wrap;
-    align-items: center;
-    align-content: flex-end;
+    align-items: flex-start;
+    /*align-content: flex-start;*/
+
 }
 
 

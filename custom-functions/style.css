@@ -3,7 +3,7 @@ body {
 }
 
 div {
-    height: 50px;
+    height: 100px;
     width: 150px;
     display: inline-block;
     border: 2px solid black;
@@ -17,6 +17,7 @@ div {
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
+    align-content: center;
 }
 
 
@@ -26,10 +27,12 @@ div {
 
 #box2 {
     background-color: pink;
+    height: 200px;
 }
 
 #box3 {
     background-color: darkkhaki;
+    height: 75px;
 }
 
 #box4 {

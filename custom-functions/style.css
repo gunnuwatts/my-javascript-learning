@@ -12,6 +12,7 @@ div {
 #container {
     width: 800px;
     height: 200px;
+    display: flex;
 }
 
 

@@ -1,9 +1,36 @@
+body {
+    text-align: center;
+}
+
 div {
-    height: 250px;
-    width: 250px;
-    background-image: url("nature_photo.jpg");
-    background-size: cover;
-    position: fixed;
-    right: 0px;
-    top: 50px;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#container {
+    width: 800px;
+    height: 200px;
+}
+
+
+#box1 {
+    background-color: aqua;
+}
+
+#box2 {
+    background-color: pink;
+}
+
+#box3 {
+    background-color: darkkhaki;
+}
+
+#box4 {
+    background-color: indianred;
+}
+
+#box5 {
+    background-color: slateblue;
 }

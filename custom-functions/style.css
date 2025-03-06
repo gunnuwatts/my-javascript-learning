@@ -14,6 +14,15 @@ li {
     /*background-color: white;*/
 }
 
+.inner {
+    height: 100px;
+    width: 100px;
+    background-color: darkorchid;
+    align-self: flex-start;
+}
+
+/*here align-self have higher priority*/
+
 .outer {
     height: 400px;
     width: 400px;
@@ -21,10 +30,4 @@ li {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.inner {
-    height: 100px;
-    width: 100px;
-    background-color: darkorchid;
 }

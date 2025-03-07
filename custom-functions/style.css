@@ -10,8 +10,8 @@ div {
     }
 }
 
-@media (min-width : 300px) and (max-width : 400px) {
+@media (min-width : 400px) and (max-width : 600px) {
     div {
-        background-color: pink;
+        background-color: red;
     }
 }

@@ -17,7 +17,7 @@ div:hover {
     /* background-color: red;
     color: white; 
    font-size: 20px; */
-    transform: rotate(90deg);
+    transform: rotate(180deg);
 }
 
 div:active {

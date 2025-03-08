@@ -4,3 +4,8 @@ div {
     background-color: aquamarine;
     border: 2px solid black;
 }
+
+div:hover {
+    background-color: red;
+    color: white;
+}

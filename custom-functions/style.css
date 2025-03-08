@@ -9,13 +9,14 @@ div {
     /* transition: all 2s ease-in 3s; */
     /* transform: rotate(180deg); */
     /* rotate: x 180deg; */
-    transform: scaley(2);
+
 }
 
 div:hover {
     background-color: red;
     color: white;
-    font-size: 20px;
+    /* font-size: 20px; */
+    transform: scaleY(2);
 }
 
 div:active {

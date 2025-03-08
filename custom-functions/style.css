@@ -7,7 +7,9 @@ div {
     transition-duration: 2s;
     transition-timing-function: ease-in;
     transition-delay: 3s; */
-    transition: all 2s ease-in 3s;
+    /* transition: all 2s ease-in 3s; */
+    transform: rotate(45deg);
+
 }
 
 div:hover {

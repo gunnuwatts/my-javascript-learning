@@ -18,7 +18,7 @@ div:hover {
     color: white; 
    font-size: 20px; */
     /* transform: rotate(180deg); */
-    transform: translateX(-200px);
+    transform: translateY(200px);
 }
 
 div:active {

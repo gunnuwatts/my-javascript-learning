@@ -8,7 +8,7 @@ div {
     left: 100px;
     /* transition: all 2s ease-in 3s; */
     /* transform: rotate(180deg); */
-    rotate: x 90deg;
+    rotate: y 90deg;
 
 }
 

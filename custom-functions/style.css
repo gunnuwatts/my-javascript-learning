@@ -17,7 +17,7 @@ div:hover {
     /* background-color: red;
     color: white; 
    font-size: 20px; */
-    transform: scaleY(2);
+    transform: scaleX(2);
 }
 
 div:active {

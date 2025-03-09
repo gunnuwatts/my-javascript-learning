@@ -13,7 +13,7 @@ div {
     /* animation-delay: 0s;
     animation-iteration-count: infinite;
     animation-direction: alternate-reverse; */
-    animation: colorAnimate 2s ease-in 0s infinite normal;
+    animation: colorAnimate 2s ease-in 1s infinite normal;
 }
 
 @keyframes colorAnimate {

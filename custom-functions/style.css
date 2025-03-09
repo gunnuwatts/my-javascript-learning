@@ -19,10 +19,12 @@ div {
 @keyframes colorAnimate {
     from {
         left: 0px;
+        background-color: yellow;
     }
 
     to {
         left: 200px;
+        background-color: red;
     }
 }
 

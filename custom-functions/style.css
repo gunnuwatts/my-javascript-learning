@@ -25,6 +25,7 @@ div {
     to {
         left: 200px;
         background-color: red;
+        color: white;
     }
 }
 

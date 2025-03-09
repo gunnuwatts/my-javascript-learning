@@ -18,7 +18,7 @@ div:hover {
     color: white; 
    font-size: 20px; */
     /* transform: rotate(180deg); */
-    transform: skew(90deg);
+    transform: skew(45deg);
 }
 
 div:active {

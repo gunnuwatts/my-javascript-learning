@@ -4,6 +4,7 @@
     border-radius: 50%;
     border: 20px solid #FFE66D;
     border-top: 20px solid #4ECDC4;
+    animation: spinAnimate 3s ease-in 0s infinite normal;
 }
 
 @keyframes spinAnimate {

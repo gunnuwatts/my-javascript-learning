@@ -53,4 +53,5 @@
 /** box3 **/
 .nav-search {
     display: flex;
+    background-color: pink;
 }

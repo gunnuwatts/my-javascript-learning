@@ -54,4 +54,5 @@
 .nav-search {
     display: flex;
     background-color: pink;
+    width: 620px;
 }

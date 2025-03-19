@@ -106,3 +106,7 @@ span {
 .nav-cart i {
     font-size: 30px;
 }
+
+.nav-cart {
+    font-size: 0.85rem;
+}

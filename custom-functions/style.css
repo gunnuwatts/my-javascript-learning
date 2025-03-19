@@ -88,6 +88,10 @@
     color: #0f1111;
 }
 
+.nav-search:hover {
+    border: 2px solid orange;
+}
+
 /** box4 **/
 span {
     font-size: 0.7rem;

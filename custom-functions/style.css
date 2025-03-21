@@ -142,6 +142,7 @@ span {
     background-image: url("hero_image.jpg");
     background-size: cover;
     height: 600px;
+    display: flex;
 }
 
 .hero-msg {
@@ -152,7 +153,6 @@ span {
     align-items: center;
     justify-content: center;
     font-size: 0.85rem;
-    bottom: 25px;
 }
 
 .hero-msg a {

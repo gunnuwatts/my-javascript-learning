@@ -147,4 +147,6 @@ span {
 .hero-msg {
     background-color: white;
     color: black;
+    height: 40px;
+    display: flex;
 }

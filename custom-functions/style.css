@@ -118,3 +118,7 @@ span {
     background-color: #222f3d;
     display: flex;
 }
+
+.panel-ops p {
+    display: inline;
+}

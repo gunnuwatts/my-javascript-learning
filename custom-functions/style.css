@@ -171,4 +171,5 @@ span {
 .box {
     border: 2px solid black;
     height: 100px;
+    width: 25%;
 }

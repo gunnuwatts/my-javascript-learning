@@ -164,6 +164,10 @@ span {
 }
 
 /**shop-section**/
+.shop-section {
+    display: flex;
+}
+
 .box {
     border: 2px solid black;
     height: 100px;

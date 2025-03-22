@@ -233,4 +233,5 @@ ul a {
 .foot-panel3 {
     background-color: #222f3d;
     color: white;
+    border-top: 0.5px solid white;
 }

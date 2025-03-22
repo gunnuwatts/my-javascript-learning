@@ -216,3 +216,7 @@ footer {
     color: white;
     height: 500px;
 }
+
+ul a {
+    display: block;
+}

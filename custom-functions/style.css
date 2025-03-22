@@ -162,3 +162,9 @@ span {
 .hero-msg a {
     color: #007185;
 }
+
+/**shop-section**/
+.box {
+    border: 2px solid black;
+    height: 100px;
+}

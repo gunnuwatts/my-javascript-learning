@@ -5,4 +5,8 @@ price = 99.99;
 radius = 14;
 x = null; // special value
 y = undefined;
-console.log(radius);
+isFollow = true; // boolean
+
+fullName = 25;
+
+console.log(fullName);

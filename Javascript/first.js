@@ -2,6 +2,7 @@
 fullName = 'Tony Stark'; // string value
 age = 24; // number value
 price = 99.99;
+radius = 14;
 x = null; // special value
 y = undefined;
-console.log(y);
+console.log(radius);

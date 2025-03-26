@@ -1,3 +1,4 @@
 /* eslint-disable no-undef */
-Console = 'apna college';
+isFollow;
+totalPrice;
 console.log(Console);

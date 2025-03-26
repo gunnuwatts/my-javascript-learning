@@ -1,6 +1,5 @@
 /* eslint-disable no-undef */
-fullname = 'gungun watts';
-fullName = 'opel watts';
+// eslint-disable-next-line camelcase
+fullname_$123 = 'tony stark';
 
-console.log(fullname);
-console.log(fullName);
+console.log(fullname_$123);

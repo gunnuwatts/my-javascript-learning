@@ -1,12 +1,6 @@
 /* eslint-disable no-undef */
-fullName = 'Tony Stark'; // string value
-age = 24; // number value
-price = 99.99;
-radius = 14;
-x = null; // special value
-y = undefined;
-isFollow = true; // boolean
+fullname = 'gungun watts';
+fullName = 'opel watts';
 
-fullName = 25;
-
+console.log(fullname);
 console.log(fullName);

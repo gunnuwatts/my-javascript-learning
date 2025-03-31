@@ -1,1 +1,1 @@
-isFollow = true;
+let x;

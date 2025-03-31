@@ -1,7 +1,7 @@
-var age = 24;
+let age = 24;
 
-var age = 59;
+age = 59;
 
-var age = 86;
+age = 76;
 
 console.log(age);

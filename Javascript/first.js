@@ -1,4 +1,5 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable no-undef */
-isFollow;
-totalPrice;
-console.log(Console);
+const fullName = 'tony stark';
+
+console.log(fullName);

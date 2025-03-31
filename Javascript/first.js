@@ -1,5 +1,7 @@
-let fullName = "tony stark";
-let age = 24;
-let totalPrice = 1000;
+var age = 24;
 
-console.log(fullName);
+var age = 59;
+
+var age = 86;
+
+console.log(age);

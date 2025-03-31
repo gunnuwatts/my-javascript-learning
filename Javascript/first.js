@@ -1,1 +1,1 @@
-let fullName = "tony stark";
+isFollow = true;

@@ -1,3 +1,3 @@
-const Name = 'tony stark';
+let fullName = 'tony stark';
 
-console.log(Name);
+console.log(fullName);

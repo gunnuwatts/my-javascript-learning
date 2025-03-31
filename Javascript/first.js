@@ -1,5 +1,3 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-undef */
-const fullName = 'tony stark';
+const Name = 'tony stark';
 
-console.log(fullName);
+console.log(Name);

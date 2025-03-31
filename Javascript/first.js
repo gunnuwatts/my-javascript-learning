@@ -1,7 +1,4 @@
-let age = 24;
+const PI = 3.14;
 
-age = 59;
 
-age = 76;
-
-console.log(age);
+console.log(PI);

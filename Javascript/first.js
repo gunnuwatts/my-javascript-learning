@@ -1,8 +1,2 @@
-{
-    let a = 5;
-    console.log(a);
-}
-{
-    let a = 10;
-    console.log(a);
-}
+let age = 24;
+let price = 100.5;

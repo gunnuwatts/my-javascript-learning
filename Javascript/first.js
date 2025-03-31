@@ -1,1 +1,1 @@
-let x = null;
+let x = BigInt("123");

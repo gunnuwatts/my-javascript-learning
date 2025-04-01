@@ -1,10 +1,8 @@
-const student = {
-    fullName : "Rahul Kumar",
-    age: 20,
-    cgpa: 8.2,
-    isPass: true,
+const product = {
+    title: "Ball Pen",
+    rating: 4,
+    offer: 5,
+    price: 270
 };
 
-student["name"] = "Rahul Sharma";
-
-console.log(student["name"]);
+console.log(product);

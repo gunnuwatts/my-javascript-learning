@@ -5,4 +5,4 @@ const profile = {
     following: 4,
     };
 
-console.log(profile);
+console.log(typeof profile["followers"]);

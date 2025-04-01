@@ -1,2 +1,8 @@
-let x = BigInt("123");
-let y = Symbol("Hello!");
+const student = {
+    fullName : "Rahul Kumar",
+    age: 20,
+    cgpa: 8.2,
+    isPass: true,
+};
+
+console.log(student["cgpa"]);

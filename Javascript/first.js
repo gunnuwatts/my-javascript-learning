@@ -5,6 +5,6 @@ const student = {
     isPass: true,
 };
 
-student["age"] = student["age"] + 1;
+student["name"] = "Rahul Sharma";
 
-console.log(student["age"]);
+console.log(student["name"]);

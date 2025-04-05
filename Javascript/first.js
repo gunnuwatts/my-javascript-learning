@@ -16,5 +16,5 @@ let b = 2;
 
 console.log("a = ", a, " & b = ", b);
 
-console.log("--a = ", --a);  //pre decrement
+console.log("a-- = ", a--);  //post decrement
 console.log("a = ", a); 

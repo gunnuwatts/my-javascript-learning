@@ -1,3 +1,3 @@
-//this is a code that prints
-//hello world on our console window
+/*this is a code that prints
+hello world on our console window*/
 console.log("hello world!");

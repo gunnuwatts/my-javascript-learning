@@ -1,3 +1,5 @@
-/*this is a code that prints
-hello world on our console window*/
-console.log("hello world!");
+//Arithmetic operators
+let a = 5;
+let b = 2;
+
+console.log("a + b =", a + b);

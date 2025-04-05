@@ -7,4 +7,5 @@ console.log("a + b =", a + b);
 console.log("a - b =", a - b);
 console.log("a * b =", a * b);
 console.log("a / b =", a / b);
-console.log("a % b =", a % b);    //modulus operator
+console.log("a % b =", a % b);    //modulus operator(remainder)
+console.log("a ** b =", a ** b);    //exponentiation(5^2)

@@ -27,7 +27,7 @@
 // console.log("a = ", a); //625
 
 //Comparison Operator
-let a = 5;
-let b = 2;
+let a = 5;  //number
+let b = "5";  //string -> number
 
-console.log("5 != 2", a != b); //true
+console.log("a == b", a == b); //true

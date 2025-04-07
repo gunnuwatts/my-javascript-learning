@@ -28,6 +28,6 @@
 
 //Comparison Operator
 let a = 5;
-let b = 2;
+let b = 5;
 
-console.log("5 == 2", a == b); //false
+console.log("5 == 5", a == b); //true

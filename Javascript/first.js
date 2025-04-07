@@ -11,10 +11,17 @@
 // console.log("a ** b =", a ** b);    //exponentiation(5^2)
 
 //Unary Operator
+// let a = 5;
+// let b = 2;
+
+// console.log("a = ", a, " & b = ", b);
+
+// console.log("a-- = ", a--);  //post decrement
+// console.log("a = ", a); 
+
+//Assignment operators
 let a = 5;
 let b = 2;
 
-console.log("a = ", a, " & b = ", b);
-
-console.log("a-- = ", a--);  //post decrement
-console.log("a = ", a); 
+a += 4; //a = a + 4
+console.log("a = ", a); //9

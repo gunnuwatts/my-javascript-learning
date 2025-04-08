@@ -30,4 +30,4 @@
 let a = 5;
 let b = 3; 
 
-console.log("5 > 3", a > b); //true
+console.log("5 < 3", a < b); //false

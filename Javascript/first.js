@@ -26,8 +26,18 @@
 // a **= 4; //a = a ** 4
 // console.log("a = ", a); //625
 
-//Comparison Operator
+// Comparison Operator
+// let a = 6;
+// let b = 5; 
+
+// console.log("6 >= 5", a >= b); //true
+
+//Logical operators
 let a = 6;
 let b = 5; 
 
-console.log("6 >= 5", a >= b); //true
+let cond1 = a > b; //true
+let cond2 = a === 6; //true
+console.log("cond1 && cond2 = ", cond1 && cond2);
+
+

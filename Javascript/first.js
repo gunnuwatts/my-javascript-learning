@@ -1,10 +1,16 @@
 //Conditional Statements
 
-//Odd or Even
-let num = 20;
+let mode = "dark";
+let color;
 
-if(num%2 === 0) {
-    console.log(num, "is even");
+if(mode === "dark") {
+    color = "black";
+} else if (mode === "blue") {
+    color = "blue";
+} else if (mode === "pink") {
+    color = "pink";
 } else {
-    console.log(num, "is odd");
+    color = "white";
 }
+
+console.log(color);

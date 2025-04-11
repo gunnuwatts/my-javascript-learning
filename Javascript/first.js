@@ -1,9 +1,10 @@
 //Conditional Statements
 
-let age = 16;
+//Odd or Even
+let num = 10;
 
-if(age >= 18) {
-    console.log("vote");
+if(num%2 === 0) {
+    console.log(num, "is even");
 } else {
-    console.log("not vote");
+    console.log(num, "is odd");
 }

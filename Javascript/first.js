@@ -1,41 +1,8 @@
-//Arithmetic operators
-// let a = 5;
-// let b = 2;
+//Conditional Statements
 
-// console.log("a = ", a, " & b = ", b);
-// console.log("a + b =", a + b);
-// console.log("a - b =", a - b);
-// console.log("a * b =", a * b);
-// console.log("a / b =", a / b);
-// console.log("a % b =", a % b);    //modulus operator(remainder)
-// console.log("a ** b =", a ** b);    //exponentiation(5^2)
+let age = 25;
 
-//Unary Operator
-// let a = 5;
-// let b = 2;
-
-// console.log("a = ", a, " & b = ", b);
-
-// console.log("a-- = ", a--);  //post decrement
-// console.log("a = ", a); 
-
-//Assignment operators
-// let a = 5;
-// let b = 2;
-
-// a **= 4; //a = a ** 4
-// console.log("a = ", a); //625
-
-// Comparison Operator
-// let a = 6;
-// let b = 5; 
-
-// console.log("6 >= 5", a >= b); //true
-
-//Logical operators
-let a = 6;
-let b = 5; 
-
-console.log("!(6 < 5) = ", !(a === 6)); // not operator
-
+if (age > 18) {
+    console.log("you can vote");
+}
 

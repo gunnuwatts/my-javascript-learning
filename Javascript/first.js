@@ -1,11 +1,14 @@
 //Conditional Statements
 
-let age = 18;
+let mode = "dark";
+let color;
 
-if (age >= 18) {
-    console.log("you can vote");
+if(mode === "dark") {
+    color = "black";
 }
 
-if(age < 18) {
-    console.log("you CANNOT vote");
+if(mode === "light") {
+    color = "white";
 }
+
+console.log(color);

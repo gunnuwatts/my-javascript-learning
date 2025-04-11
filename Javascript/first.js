@@ -1,7 +1,7 @@
 //Conditional Statements
 
 //Odd or Even
-let num = 15;
+let num = 20;
 
 if(num%2 === 0) {
     console.log(num, "is even");

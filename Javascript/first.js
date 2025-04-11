@@ -1,6 +1,6 @@
 //Conditional Statements
 
-let mode = "light";
+let mode = "blue";
 let color;
 
 if(mode === "dark") {

@@ -1,12 +1,9 @@
 //Conditional Statements
 
-let mode = "blue";
-let color;
+let age = 25;
 
-if(mode === "dark") {
-    color = "black";
-} else  {
-    color = "white";
+if(age >= 18) {
+    console.log("vote");
+} else {
+    console.log("not vote");
 }
-
-console.log(color);

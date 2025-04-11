@@ -5,9 +5,7 @@ let color;
 
 if(mode === "dark") {
     color = "black";
-}
-
-if(mode === "light") {
+} else  {
     color = "white";
 }
 

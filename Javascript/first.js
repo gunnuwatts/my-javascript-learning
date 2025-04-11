@@ -1,6 +1,6 @@
 //Conditional Statements
 
-let mode = "silver";
+let mode = "dark";
 let color;
 
 if(mode === "dark") {
@@ -14,3 +14,5 @@ if(mode === "dark") {
 }
 
 console.log(color);
+
+if (mode === "dark") console.log(mode);

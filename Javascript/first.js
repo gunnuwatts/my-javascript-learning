@@ -15,4 +15,6 @@ if(mode === "dark") {
 
 console.log(color);
 
-if (mode === "dark") console.log(mode);
+if (mode === "dark") {
+    console.log(mode);
+}

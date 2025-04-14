@@ -1,5 +1,7 @@
-// Ternary operator
+let num = prompt("enter a number:");
 
-let age = 25;
-
-age >= 18 ? console.log("adult") : console.log("not adult"); //simpler, compact if-else
+if(num % 5 === 0) {
+    console.log(num, " is multiple of 5");
+} else {
+    console.log(num, "is NOT a multiple of 5");
+}

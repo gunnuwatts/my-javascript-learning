@@ -5,3 +5,4 @@ if(num % 5 === 0) {
 } else {
     console.log(num, "is NOT a multiple of 5");
 }
+//small changes

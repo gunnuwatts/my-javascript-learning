@@ -4,7 +4,7 @@
 // console.log("Apna College");
 // console.log("Apna College");
 
-for (let count = 1; count <= 3; count++) {
+for (let count = 1; count <= 100 ; count++) {
     console.log("Apna College"); //5 execute
 }
 

@@ -1,11 +1,12 @@
-// console.log("Apna College");
-// console.log("Apna College");
-// console.log("Apna College");
-// console.log("Apna College");
-// console.log("Apna College");
+//Print 1 to 5
+// for (let count = 1; count <= 5 ; count++) {
+//     console.log("Apna College"); 
+// }
 
-for (let count = 1; count <= 10000 ; count++) {
-    console.log("Apna College"); //5 execute
+//Calculate sum of 1 to 5
+let sum = 0;
+for (let i = 1; i <= 5; i++) {
+    sum = sum + i;
 }
-
+console.log("sum = ", sum);
 console.log("loop has ended");

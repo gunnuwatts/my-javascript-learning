@@ -9,8 +9,15 @@
 //     i++;
 // }
 
-let i = 1;
-do {
-    console.log("i=",i);
-    i++;  
-} while(i <= 5);
+// let i = 1;
+// do {
+//     console.log("i=",i);
+//     i++;  
+// } while(i <= 5);
+
+//for-of loop
+let str = "ApnaCollge";
+
+for (let i of str) {
+    console.log("i=", i);
+}

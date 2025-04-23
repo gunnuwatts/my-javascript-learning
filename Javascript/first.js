@@ -3,8 +3,14 @@
 //     console.log("i = ", i); 
 // }
 
-let i = 1;
-while(i<=10) {
-    console.log("Apna College");
-    i++;
-}
+// let i = 1;
+// while(i<=10) {
+//     console.log("Apna College");
+//     i++;
+// }
+
+let i = 20;
+do {
+    console.log("Apna college");
+    i++;  
+} while(i<=10);

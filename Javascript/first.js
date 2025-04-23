@@ -16,8 +16,8 @@
 // } while(i <= 5);
 
 //for-of loop
-let str = "ApnaCollge";
+let str = "Javascript";
 
-for (let i of str) {
+for (let i of str) { //iterator -> characters
     console.log("i=", i);
 }

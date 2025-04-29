@@ -1,8 +1,9 @@
-//Strings
-// let str = "ApnaCollege";  //double quotes
+let obj = {
+    item: "pen",
+    price: 10,
+};
 
-// console.log(str[8]); //e
-
+console.log("the cost of", obj.item, "is",obj.price, "rupees");
 //Template literals
 let specialString = `This is a template literal`;
 console.log(typeof specialString);

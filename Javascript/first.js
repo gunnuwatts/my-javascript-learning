@@ -3,7 +3,11 @@ let obj = {
     price: 10,
 };
 
-console.log("the cost of", obj.item, "is",obj.price, "rupees");
+let output = `the cost of ${obj.item} is ${obj.price} rupees`; //templateliterals
+console.log(output);
+
+console.log("the cost of", obj.item, "is",obj.price, "rupees"); //normalmethod
+  
 //Template literals
 let specialString = `This is a template literal`;
 console.log(typeof specialString);

@@ -1,2 +1,2 @@
 //Template literals
-console.log("Apna\nCollege"); //\n escape character
+console.log("Apna\tCollege"); //\t tab space

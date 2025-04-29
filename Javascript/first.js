@@ -1,3 +1,2 @@
 //Template literals
-let specialString = `This is a template literal ${1+2+3}`;
-console.log(specialString);
+console.log("Apna\nCollege"); //\n escape character

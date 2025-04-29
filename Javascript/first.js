@@ -3,7 +3,7 @@ let obj = {
     price: 10,
 };
 
-let output = `the cost of ${obj.item} is ${obj.price} rupees`; //templateliterals
+let output = `the cost of ${obj.item} is ${obj.price} rupees`; //templateliterals (stringinterpolation)
 console.log(output);
 
 console.log("the cost of", obj.item, "is",obj.price, "rupees"); //normalmethod

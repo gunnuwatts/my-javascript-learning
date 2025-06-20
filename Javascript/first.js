@@ -1,3 +1,3 @@
 let str = "hellololo";
 
-console.log(str.replace("lo", "p"));
+console.log(str.replaceAll("lo", "p"));

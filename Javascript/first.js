@@ -1,3 +1,2 @@
-let str = "ApnaCollege";
-str = str.toLowerCase();
-console.log(str);
+let str = "       Apna College   JS    ";
+console.log(str.trim());

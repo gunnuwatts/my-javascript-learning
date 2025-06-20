@@ -1,3 +1,3 @@
 let str = "ApnaCollege";
-str = str.toUpperCase();
+str = str.toLowerCase();
 console.log(str);

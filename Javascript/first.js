@@ -1,5 +1,3 @@
-let str1 = "apna";
-let str2 = "college";
+let str = "hello";
 
-let res = "hello" + 123;
-console.log(res);
+console.log(str.replace("h", "y"));

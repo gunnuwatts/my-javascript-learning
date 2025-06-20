@@ -1,3 +1,3 @@
-let str = "hellololo";
+let str = "IloveJS";
 
-console.log(str.replaceAll("lo", "p"));
+console.log(str.charAt(0));

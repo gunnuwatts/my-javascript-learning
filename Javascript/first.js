@@ -1,3 +1,4 @@
 let str = "IloveJS";
+str = str.replace("I","S"); 
 
-console.log(str.charAt(3)); //v
+console.log(str);

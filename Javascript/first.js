@@ -1,5 +1,5 @@
 let str1 = "apna";
 let str2 = "college";
 
-let res = str1.concat(str2);
+let res = str2.concat(str1);
 console.log(res);

@@ -1,3 +1,4 @@
-//Template literal
-let str = "Apna\tCollege"; //12(escape character \t count as 1)
-console.log(str.length);
+let str = "ApnaCollege";
+let newStr = str.toUpperCase();
+console.log(str);  //original string
+console.log(newStr);  //new string

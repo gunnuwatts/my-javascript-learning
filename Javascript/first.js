@@ -1,4 +1,4 @@
-let str = "IloveJS";
-str = str.replace("I","S"); 
+let fullName = prompt("enter your fullname without spaces");
 
-console.log(str);
+let username = "@" + fullName + fullName.length;
+console.log(username);

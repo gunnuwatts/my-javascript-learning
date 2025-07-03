@@ -1,8 +1,5 @@
-let items = [200, 645, 300, 900, 50];
-//for loop
-for (let i = 0; i < items.length; i++) {
-    let offer = items[i] / 10;
-    items[i] -= offer;
-}
+let foodItems = ["potato", "apple", "litchi", "tomato"];
 
-console.log(items);
+foodItems.push("chips", "burger", "paneer");
+
+console.log(foodItems);

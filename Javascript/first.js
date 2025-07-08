@@ -1,4 +1,3 @@
-let marvelHeroes = ["thor", "spiderman", "ironman"];
+let marvelHeroes = ["thor", "spiderman", "ironman", "antman", "Dr. Strange"];
 
-let val = marvelHeroes.shift();
-console.log("deleted", val);
+console.log(marvelHeroes);

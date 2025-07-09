@@ -1,3 +1,4 @@
-let companies = ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Netflix"];
-
-companies.push("Amazon");
+function myFunction() {
+    console.log("Welcome to Apna College!");
+    console.log("We are learning JS :");
+}

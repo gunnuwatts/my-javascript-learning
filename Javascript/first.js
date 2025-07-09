@@ -4,3 +4,7 @@ function myFunction() {
 }
 
 myFunction();
+myFunction();
+myFunction();
+myFunction();
+myFunction();

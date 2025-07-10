@@ -1,12 +1,13 @@
-//Function -> 2 numbers, sum
-
-function sum(x, y) {
-    //local variables -> scope
-    s = x + y;
-    console.log("x");
-     return s;
+//sum function
+function sum(a, b) {
+    return a + b;
 }
 
-let val = sum(3, 4);
-console.log(x);
-console.log(val);
+const arrowSum = (a, b) => {
+    console.log(a + b);
+};
+
+//multiplication function
+function mul(a, b) {
+    return a * b;
+}

@@ -1,9 +1,6 @@
-function myFunction() {
-    console.log("Welcome to Apna College!");
-    console.log("We are learning JS :");
-    console.log("Welcome to Apna College!");
-    console.log("We are learning JS :");
+function myFunction(msg) {
+    //parameter -> input
+    console.log(msg);
 }
 
-myFunction();
-myFunction();
+myFunction("I Love JS"); //argument

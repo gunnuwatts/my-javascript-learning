@@ -13,5 +13,9 @@ function mul(a, b) {
 }
 
 const arrowMul = (a, b) => {
-    return a*b;
+    return a * b;
+}
+
+const printHello = () => {
+    console.log("hello");
 }

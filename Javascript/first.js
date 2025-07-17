@@ -12,5 +12,5 @@ function countVowels(str) {
        }
     }
 
-    console.log(count);
+    return count;
 }
